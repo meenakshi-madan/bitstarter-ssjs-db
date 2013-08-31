@@ -1,3 +1,6 @@
+Base code provided by the professor (Startup Engineering, Coursera)
+___________________________________________________________________
+
 Installation
 ============
 The following instructions will set up a more complex bitstarter than the
